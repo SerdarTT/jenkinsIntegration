@@ -1,0 +1,94 @@
+{
+  "uid" : "5627b3850ae25c2d",
+  "name" : "Edit to the article",
+  "fullName" : "Tests.ReadTest.editArticle",
+  "historyId" : "3d6df099be92e46f01c590eb9b0878da",
+  "time" : {
+    "start" : 1608487364950,
+    "stop" : 1608487376956,
+    "duration" : 12006
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initDriver",
+    "time" : {
+      "start" : 1608487361553,
+      "stop" : 1608487364794,
+      "duration" : 3241
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1608487376974,
+      "stop" : 1608487377079,
+      "duration" : 105
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.ReadTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.ReadTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "editArticle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "CrudProject"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.ReadTest"
+  }, {
+    "name" : "host",
+    "value" : "Serdars-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "2366@Serdars-MBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5627b3850ae25c2d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,321 @@
+{
+  "4f1ef8d6daabc2c6203f598692a26f3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c81a1b2515c0d39d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139869,
+        "stop" : 1608136139869,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cd4deea48981ee926d8a576ce5bcc089" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7269c8c7fe2695f1",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139875,
+        "stop" : 1608136139875,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3d6df099be92e46f01c590eb9b0878da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15ee7666d78a4683",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136161777,
+        "stop" : 1608136161777,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4501a6081cdbc072b922ed72f54095c8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c52090021c82bb43",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136161767,
+        "stop" : 1608136161768,
+        "duration" : 1
+      }
+    } ]
+  },
+  "15f923bee2644a79604f7039530e19e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e057969323e93ec6",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139861,
+        "stop" : 1608136139861,
+        "duration" : 0
+      }
+    } ]
+  },
+  "72c679035813efb37a15c93460b4323c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77a9ac69d4c88920",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139884,
+        "stop" : 1608136139884,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3aea4580373fc80d739e5e9723817d38" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb40a92d16a15c5b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139872,
+        "stop" : 1608136139872,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c77d9f368bfb1cbc5ebec96f1665e8b7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22853f01cf27a50f",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for title to be \"Hotels.com\". Current title: \"\" (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1608136139890,
+        "stop" : 1608136161747,
+        "duration" : 21857
+      }
+    } ]
+  },
+  "ab95779178cde7ae9e610f20bf41b3d1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d3af1e13e69c171",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139881,
+        "stop" : 1608136139881,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c72278d85daba2518c6bcb061fca477b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9cc1a979166d6a12",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139887,
+        "stop" : 1608136139887,
+        "duration" : 0
+      }
+    } ]
+  },
+  "584703d87288e7724534877a94a11541" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d04cef7575e9609f",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136161790,
+        "stop" : 1608136161790,
+        "duration" : 0
+      }
+    } ]
+  },
+  "127e9f8292b225679e73b77e71c70e53" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14ba3502daf92748",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608136135724,
+        "stop" : 1608136139768,
+        "duration" : 4044
+      }
+    } ]
+  },
+  "9512fdee10164b70d75e14e97f77b88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "418e09ac9ed5b1ae",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136161784,
+        "stop" : 1608136161784,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1bf7e5c890c0b27808acb0b46df4115b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e9d223c601f444f",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139851,
+        "stop" : 1608136139852,
+        "duration" : 1
+      }
+    } ]
+  },
+  "6e3c41f4c13e38e05028c882e98802ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f998a190d332893c",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139878,
+        "stop" : 1608136139878,
+        "duration" : 0
+      }
+    } ]
+  },
+  "602018089278d356d3f6b973c831df46" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca621febeb2b15eb",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608136139865,
+        "stop" : 1608136139865,
+        "duration" : 0
+      }
+    } ]
+  }
+}

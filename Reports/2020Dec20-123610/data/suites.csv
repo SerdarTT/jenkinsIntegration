@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Sun Dec 20 12:36:07 EST 2020","Sun Dec 20 12:36:07 EST 2020","4","Default Suite","CrudProject","Tests.UpdateTest","Tests.UpdateTest","updateArticle","User can update article",""
+"broken","Sun Dec 20 12:36:07 EST 2020","Sun Dec 20 12:36:07 EST 2020","3","Default Suite","CrudProject","Tests.UpdateTest","Tests.UpdateTest","initDriver","initDriver",""

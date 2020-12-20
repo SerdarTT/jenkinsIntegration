@@ -1,0 +1,65 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "f8493778b37a9eaf",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608135327622,
+          "stop" : 1608135327624,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "998da105dac9f61f",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608135327652,
+          "stop" : 1608135327653,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "294b8ea015f28a3b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608135327664,
+          "stop" : 1608135327664,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "2585bc5f63ea333",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608135327674,
+          "stop" : 1608135327674,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

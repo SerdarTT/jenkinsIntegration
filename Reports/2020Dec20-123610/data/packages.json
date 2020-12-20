@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Tests.UpdateTest",
+    "children" : [ {
+      "name" : "initDriver",
+      "uid" : "1d3d2c00ded9f04",
+      "parentUid" : "7b3acf84b45985fd69be28b60994ce75",
+      "status" : "broken",
+      "time" : {
+        "start" : 1608485767724,
+        "stop" : 1608485767727,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "updateArticle",
+      "uid" : "ec2443491623545a",
+      "parentUid" : "7b3acf84b45985fd69be28b60994ce75",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1608485767856,
+        "stop" : 1608485767860,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Tests.UpdateTest"
+  } ]
+}

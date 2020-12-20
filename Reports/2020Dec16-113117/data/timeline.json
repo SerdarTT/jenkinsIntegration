@@ -1,0 +1,221 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "2189@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "63872d8b80859c91",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136262712,
+          "stop" : 1608136262712,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "7df0a7b5f58a99b8",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136274897,
+          "stop" : 1608136274897,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Edit to the article",
+        "uid" : "8636fd8efde70d0",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136274900,
+          "stop" : 1608136274900,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Creating new post",
+        "uid" : "b067c9e58460fa2c",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136262715,
+          "stop" : 1608136262715,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "318b767d9e764bf0",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136262700,
+          "stop" : 1608136262701,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "95575bc7a4d7629e",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136262693,
+          "stop" : 1608136262693,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "8a10dc7028bfcad0",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136262719,
+          "stop" : 1608136262719,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "SignUp -2",
+        "uid" : "99a1e2c0853a7776",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136262722,
+          "stop" : 1608136262722,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "takeSnippet",
+        "uid" : "284ba5d74cd142fd",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608136258727,
+          "stop" : 1608136262593,
+          "duration" : 3866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "5bba62b97c411e1c",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136262680,
+          "stop" : 1608136262682,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testWait",
+        "uid" : "170df040ad68df54",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136262730,
+          "stop" : 1608136274885,
+          "duration" : 12155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can delete article",
+        "uid" : "8ef3f07bd95d7847",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136262689,
+          "stop" : 1608136262690,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can update article",
+        "uid" : "746cd5e8478ecb73",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136262696,
+          "stop" : 1608136262696,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login with the valid credentials",
+        "uid" : "f271ffa84b51fce6",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136262707,
+          "stop" : 1608136262707,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "SignUp -2",
+        "uid" : "85ff46a924c14cab",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136262725,
+          "stop" : 1608136262726,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User should not be able to log in",
+        "uid" : "fef869fca21de57c",
+        "parentUid" : "dc39933cb6ee9e35c37fbaeabf26504e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136262704,
+          "stop" : 1608136262704,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dc39933cb6ee9e35c37fbaeabf26504e"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

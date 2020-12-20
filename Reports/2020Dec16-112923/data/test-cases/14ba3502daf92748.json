@@ -1,0 +1,62 @@
+{
+  "uid" : "14ba3502daf92748",
+  "name" : "takeSnippet",
+  "fullName" : "ZDiscussion.Screenshot.takeSnippet",
+  "historyId" : "127e9f8292b225679e73b77e71c70e53",
+  "time" : {
+    "start" : 1608136135724,
+    "stop" : 1608136139768,
+    "duration" : 4044
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ZDiscussion.Screenshot"
+  }, {
+    "name" : "testClass",
+    "value" : "ZDiscussion.Screenshot"
+  }, {
+    "name" : "testMethod",
+    "value" : "takeSnippet"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "CrudProject"
+  }, {
+    "name" : "subSuite",
+    "value" : "ZDiscussion.Screenshot"
+  }, {
+    "name" : "host",
+    "value" : "Serdars-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "2001@Serdars-MBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14ba3502daf92748.json",
+  "parameterValues" : [ ]
+}

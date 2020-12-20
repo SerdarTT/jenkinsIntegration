@@ -1,0 +1,65 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "6782ee03ffe77c15",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608135293692,
+          "stop" : 1608135293694,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "12c8b99a8285b038",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608135293721,
+          "stop" : 1608135293721,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "893faf062e1e1026",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608135293735,
+          "stop" : 1608135293735,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "1ea2e1dd08e4f5ca",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608135293747,
+          "stop" : 1608135293748,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

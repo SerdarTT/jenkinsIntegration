@@ -1,0 +1,42 @@
+{
+  "15f923bee2644a79604f7039530e19e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e1fcb2c2f58bcac",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608003175244,
+        "stop" : 1608003175248,
+        "duration" : 4
+      }
+    } ]
+  },
+  "1bf7e5c890c0b27808acb0b46df4115b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4154039b4a00d3ae",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1608003175096,
+        "stop" : 1608003175099,
+        "duration" : 3
+      }
+    } ]
+  }
+}

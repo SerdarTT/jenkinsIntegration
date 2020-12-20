@@ -1,0 +1,21 @@
+[ {
+  "uid" : "4154039b4a00d3ae",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608003175096,
+    "stop" : 1608003175099,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2e1fcb2c2f58bcac",
+  "name" : "Creating new post",
+  "time" : {
+    "start" : 1608003175244,
+    "stop" : 1608003175248,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

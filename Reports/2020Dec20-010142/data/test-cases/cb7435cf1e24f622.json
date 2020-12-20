@@ -1,0 +1,94 @@
+{
+  "uid" : "cb7435cf1e24f622",
+  "name" : "Edit to the article",
+  "fullName" : "Tests.ReadTest.editArticle",
+  "historyId" : "3d6df099be92e46f01c590eb9b0878da",
+  "time" : {
+    "start" : 1608487288486,
+    "stop" : 1608487300619,
+    "duration" : 12133
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initDriver",
+    "time" : {
+      "start" : 1608487285030,
+      "stop" : 1608487288284,
+      "duration" : 3254
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1608487300633,
+      "stop" : 1608487300725,
+      "duration" : 92
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.ReadTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.ReadTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "editArticle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "CrudProject"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.ReadTest"
+  }, {
+    "name" : "host",
+    "value" : "Serdars-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "2254@Serdars-MBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb7435cf1e24f622.json",
+  "parameterValues" : [ ]
+}

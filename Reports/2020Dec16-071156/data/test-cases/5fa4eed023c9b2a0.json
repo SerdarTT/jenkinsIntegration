@@ -1,0 +1,100 @@
+{
+  "uid" : "5fa4eed023c9b2a0",
+  "name" : "Edit to the article",
+  "fullName" : "Tests.ReadTest.editArticle",
+  "historyId" : "4fd6b304de43308357afd91396347877",
+  "time" : {
+    "start" : 1608163871886,
+    "stop" : 1608163883611,
+    "duration" : 11725
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initDriver",
+    "time" : {
+      "start" : 1608163869429,
+      "stop" : 1608163871882,
+      "duration" : 2453
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1608163883628,
+      "stop" : 1608163883732,
+      "duration" : 104
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.ReadTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.ReadTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "editArticle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "CRUD article"
+  }, {
+    "name" : "suite",
+    "value" : "Read article"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.ReadTest"
+  }, {
+    "name" : "host",
+    "value" : "Serdars-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "2100@Serdars-MBP.TestNG-test=Read article-1(25)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  }, {
+    "name" : "url",
+    "value" : "https://candidatex:qa-is-cool@qa-task.backbasecloud.com"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fa4eed023c9b2a0.json",
+  "parameterValues" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+}

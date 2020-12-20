@@ -1,0 +1,93 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "CRUD article",
+    "children" : [ {
+      "name" : "Create an article",
+      "children" : [ {
+        "name" : "Tests.CreateTest",
+        "children" : [ {
+          "name" : "Creating new post",
+          "uid" : "e44e2fa0726fe47f",
+          "parentUid" : "f0d701646abcd91fd453793f92f95135",
+          "status" : "passed",
+          "time" : {
+            "start" : 1607986031099,
+            "stop" : 1607986049237,
+            "duration" : 18138
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f0d701646abcd91fd453793f92f95135"
+      } ],
+      "uid" : "6281b29ad1f45fbc9c23fc5f2ff9df88"
+    }, {
+      "name" : "Read article",
+      "children" : [ {
+        "name" : "Tests.ReadTest",
+        "children" : [ {
+          "name" : "Edit to the article",
+          "uid" : "f87686b69e6c9363",
+          "parentUid" : "bdfd8b60b1cbd62aeada10a1f3da43d5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1607986057825,
+            "stop" : 1607986069645,
+            "duration" : 11820
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bdfd8b60b1cbd62aeada10a1f3da43d5"
+      } ],
+      "uid" : "5393554517381d0cfbe389b8925da176"
+    }, {
+      "name" : "Update article",
+      "children" : [ {
+        "name" : "Tests.UpdateTest",
+        "children" : [ {
+          "name" : "User can update article",
+          "uid" : "d4c832dcd1d2b97",
+          "parentUid" : "08fa3a90afe98f23f04041adac6d06c4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1607986072427,
+            "stop" : 1607986093179,
+            "duration" : 20752
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "08fa3a90afe98f23f04041adac6d06c4"
+      } ],
+      "uid" : "783ddc7f270edc066ca24cdc9603c033"
+    }, {
+      "name" : "Delete article",
+      "children" : [ {
+        "name" : "Tests.DeleteTest",
+        "children" : [ {
+          "name" : "User can delete article",
+          "uid" : "65c7813f29fde2e1",
+          "parentUid" : "141d02ab6fc7d652b99d1e3136559555",
+          "status" : "passed",
+          "time" : {
+            "start" : 1607986095896,
+            "stop" : 1607986103476,
+            "duration" : 7580
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "141d02ab6fc7d652b99d1e3136559555"
+      } ],
+      "uid" : "4b4540f7c98e84002e4badcfad7492cd"
+    } ],
+    "uid" : "c0e3923ae8db6db25129a0c4bc3bc459"
+  } ]
+}

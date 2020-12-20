@@ -1,0 +1,100 @@
+{
+  "uid" : "eec311677861e01b",
+  "name" : "User can delete article",
+  "fullName" : "Tests.DeleteTest.deleteArticle",
+  "historyId" : "a3e9e91f4e74f42a689f587d61a90b87",
+  "time" : {
+    "start" : 1608498425598,
+    "stop" : 1608498435106,
+    "duration" : 9508
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initDriver",
+    "time" : {
+      "start" : 1608498423257,
+      "stop" : 1608498425537,
+      "duration" : 2280
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitDriver",
+    "time" : {
+      "start" : 1608498435107,
+      "stop" : 1608498435193,
+      "duration" : 86
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.DeleteTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.DeleteTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteArticle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "CRUD article"
+  }, {
+    "name" : "suite",
+    "value" : "Delete article"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.DeleteTest"
+  }, {
+    "name" : "host",
+    "value" : "Serdars-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "4471@Serdars-MBP.TestNG-test=Delete article-1(35)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  }, {
+    "name" : "url",
+    "value" : "https://candidatex:qa-is-cool@qa-task.backbasecloud.com"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eec311677861e01b.json",
+  "parameterValues" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+}

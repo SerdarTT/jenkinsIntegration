@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Dec 14 22:32:55 EST 2020","Mon Dec 14 22:32:55 EST 2020","3","Default Suite","CrudProject","Tests.CreateTest","Tests.CreateTest","initDriver","initDriver",""
+"skipped","Mon Dec 14 22:32:55 EST 2020","Mon Dec 14 22:32:55 EST 2020","4","Default Suite","CrudProject","Tests.CreateTest","Tests.CreateTest","userCreate","Creating new post",""

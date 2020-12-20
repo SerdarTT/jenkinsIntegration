@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "4666@Serdars-MBP.TestNG-test=Delete article-1(26)",
+      "children" : [ {
+        "name" : "User can delete article",
+        "uid" : "58099258c4c47e34",
+        "parentUid" : "20230eaff3b1803679eb753f0efb8a90",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608498736574,
+          "stop" : 1608498750990,
+          "duration" : 14416
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "sauce", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "20230eaff3b1803679eb753f0efb8a90"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

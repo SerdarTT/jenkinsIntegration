@@ -1,0 +1,81 @@
+[ {
+  "uid" : "7c9621c2daea69ad",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136380747,
+    "stop" : 1608136380747,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b43ba814ed267a4b",
+  "name" : "Edit to the article",
+  "time" : {
+    "start" : 1608136380729,
+    "stop" : 1608136380729,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "97a0c5db1190ea82",
+  "name" : "User can delete article",
+  "time" : {
+    "start" : 1608136380751,
+    "stop" : 1608136380751,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a65cef8318449b5a",
+  "name" : "Creating new post",
+  "time" : {
+    "start" : 1608136380714,
+    "stop" : 1608136380715,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5489cffe31d22145",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136380726,
+    "stop" : 1608136380726,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "91512b95f20d87da",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136380699,
+    "stop" : 1608136380700,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "67f17d6d248d28aa",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136380738,
+    "stop" : 1608136380738,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "139dc1068cad7390",
+  "name" : "User can update article",
+  "time" : {
+    "start" : 1608136380740,
+    "stop" : 1608136380740,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "2805@Serdars-MBP.TestNG-test=Update article-1(25)",
+      "children" : [ {
+        "name" : "User can update article",
+        "uid" : "f55515ca1318fbcd",
+        "parentUid" : "cc721d07e92c4595c9b8cb7f555e7802",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608138656356,
+          "stop" : 1608138675944,
+          "duration" : 19588
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "sauce", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "cc721d07e92c4595c9b8cb7f555e7802"
+    }, {
+      "name" : "2805@Serdars-MBP.TestNG-test=Delete article-1(27)",
+      "children" : [ {
+        "name" : "User can delete article",
+        "uid" : "7a50cbe81b4f84dd",
+        "parentUid" : "28640c30b8a7460b51abc4bb462916c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608138686142,
+          "stop" : 1608138696585,
+          "duration" : 10443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "sauce", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "28640c30b8a7460b51abc4bb462916c8"
+    }, {
+      "name" : "2805@Serdars-MBP.TestNG-test=Read article-1(23)",
+      "children" : [ {
+        "name" : "Edit to the article",
+        "uid" : "2493782f7b10b277",
+        "parentUid" : "a4dbd76336e356802a3b939547127f21",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608138629585,
+          "stop" : 1608138647615,
+          "duration" : 18030
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "sauce", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "a4dbd76336e356802a3b939547127f21"
+    }, {
+      "name" : "2805@Serdars-MBP.TestNG-test=Create an article-1(17)",
+      "children" : [ {
+        "name" : "Creating new post",
+        "uid" : "e97aa2c772024f27",
+        "parentUid" : "82a12cc4a00bded0455ebe18961ab11e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608138597366,
+          "stop" : 1608138620257,
+          "duration" : 22891
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "sauce", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "82a12cc4a00bded0455ebe18961ab11e"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

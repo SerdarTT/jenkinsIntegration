@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "4354@Serdars-MBP.TestNG-test=Delete article-1(34)",
+      "children" : [ {
+        "name" : "User can delete article",
+        "uid" : "65c7813f29fde2e1",
+        "parentUid" : "b121e2278829ce3115ba1a7204bc60d8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607986095896,
+          "stop" : 1607986103476,
+          "duration" : 7580
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b121e2278829ce3115ba1a7204bc60d8"
+    }, {
+      "name" : "4354@Serdars-MBP.TestNG-test=Update article-1(28)",
+      "children" : [ {
+        "name" : "User can update article",
+        "uid" : "d4c832dcd1d2b97",
+        "parentUid" : "c8ed9fa9d74011afa7e3bac06c3bd32e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607986072427,
+          "stop" : 1607986093179,
+          "duration" : 20752
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c8ed9fa9d74011afa7e3bac06c3bd32e"
+    }, {
+      "name" : "4354@Serdars-MBP.TestNG-test=Create an article-1(12)",
+      "children" : [ {
+        "name" : "Creating new post",
+        "uid" : "e44e2fa0726fe47f",
+        "parentUid" : "47f9b65283161d9e28019e1493450b20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607986031099,
+          "stop" : 1607986049237,
+          "duration" : 18138
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "47f9b65283161d9e28019e1493450b20"
+    }, {
+      "name" : "4354@Serdars-MBP.TestNG-test=Read article-1(22)",
+      "children" : [ {
+        "name" : "Edit to the article",
+        "uid" : "f87686b69e6c9363",
+        "parentUid" : "3a3828ed22feeb207d02806b2a37ad19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607986057825,
+          "stop" : 1607986069645,
+          "duration" : 11820
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3a3828ed22feeb207d02806b2a37ad19"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

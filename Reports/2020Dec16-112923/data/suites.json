@@ -1,0 +1,253 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "CrudProject",
+      "children" : [ {
+        "name" : "ZDiscussion.Screenshot",
+        "children" : [ {
+          "name" : "takeSnippet",
+          "uid" : "14ba3502daf92748",
+          "parentUid" : "fa04faf2ec7046d03ac4ee15d4365df4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1608136135724,
+            "stop" : 1608136139768,
+            "duration" : 4044
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "fa04faf2ec7046d03ac4ee15d4365df4"
+      }, {
+        "name" : "Tests.CreateTest",
+        "children" : [ {
+          "name" : "initDriver",
+          "uid" : "1e9d223c601f444f",
+          "parentUid" : "3b6204d5d505f6bb998bacea2ce1824a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1608136139851,
+            "stop" : 1608136139852,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Creating new post",
+          "uid" : "e057969323e93ec6",
+          "parentUid" : "3b6204d5d505f6bb998bacea2ce1824a",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1608136139861,
+            "stop" : 1608136139861,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3b6204d5d505f6bb998bacea2ce1824a"
+      }, {
+        "name" : "Tests.HomePageTest",
+        "children" : [ {
+          "name" : "initDriver",
+          "uid" : "ca621febeb2b15eb",
+          "parentUid" : "64f8df0cbb609443cc8f59feafd60fda",
+          "status" : "broken",
+          "time" : {
+            "start" : 1608136139865,
+            "stop" : 1608136139865,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "User should not be able to log in",
+          "uid" : "c81a1b2515c0d39d",
+          "parentUid" : "64f8df0cbb609443cc8f59feafd60fda",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1608136139869,
+            "stop" : 1608136139869,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "User can login with the valid credentials",
+          "uid" : "bb40a92d16a15c5b",
+          "parentUid" : "64f8df0cbb609443cc8f59feafd60fda",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1608136139872,
+            "stop" : 1608136139872,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "64f8df0cbb609443cc8f59feafd60fda"
+      }, {
+        "name" : "Tests.DeleteTest",
+        "children" : [ {
+          "name" : "initDriver",
+          "uid" : "7269c8c7fe2695f1",
+          "parentUid" : "668d2e32796eaa87ed382268fae64b85",
+          "status" : "broken",
+          "time" : {
+            "start" : 1608136139875,
+            "stop" : 1608136139875,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "User can delete article",
+          "uid" : "f998a190d332893c",
+          "parentUid" : "668d2e32796eaa87ed382268fae64b85",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1608136139878,
+            "stop" : 1608136139878,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "668d2e32796eaa87ed382268fae64b85"
+      }, {
+        "name" : "Tests.SignUp",
+        "children" : [ {
+          "name" : "initDriver",
+          "uid" : "1d3af1e13e69c171",
+          "parentUid" : "13d9e6f28392d8f2d0dd5164a8d1a66b",
+          "status" : "broken",
+          "time" : {
+            "start" : 1608136139881,
+            "stop" : 1608136139881,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "SignUp -2",
+          "uid" : "77a9ac69d4c88920",
+          "parentUid" : "13d9e6f28392d8f2d0dd5164a8d1a66b",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1608136139884,
+            "stop" : 1608136139884,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "SignUp -2",
+          "uid" : "9cc1a979166d6a12",
+          "parentUid" : "13d9e6f28392d8f2d0dd5164a8d1a66b",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1608136139887,
+            "stop" : 1608136139887,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "13d9e6f28392d8f2d0dd5164a8d1a66b"
+      }, {
+        "name" : "ZDiscussion.WaitConcept",
+        "children" : [ {
+          "name" : "testWait",
+          "uid" : "22853f01cf27a50f",
+          "parentUid" : "05030fc58de1c429678e9210210a35af",
+          "status" : "broken",
+          "time" : {
+            "start" : 1608136139890,
+            "stop" : 1608136161747,
+            "duration" : 21857
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "05030fc58de1c429678e9210210a35af"
+      }, {
+        "name" : "Tests.ReadTest",
+        "children" : [ {
+          "name" : "initDriver",
+          "uid" : "c52090021c82bb43",
+          "parentUid" : "1534a5e915defc428507256df86ba512",
+          "status" : "broken",
+          "time" : {
+            "start" : 1608136161767,
+            "stop" : 1608136161768,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Edit to the article",
+          "uid" : "15ee7666d78a4683",
+          "parentUid" : "1534a5e915defc428507256df86ba512",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1608136161777,
+            "stop" : 1608136161777,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1534a5e915defc428507256df86ba512"
+      }, {
+        "name" : "Tests.UpdateTest",
+        "children" : [ {
+          "name" : "initDriver",
+          "uid" : "418e09ac9ed5b1ae",
+          "parentUid" : "42bf8703214af918e2083fb5a05eb26e",
+          "status" : "broken",
+          "time" : {
+            "start" : 1608136161784,
+            "stop" : 1608136161784,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "User can update article",
+          "uid" : "d04cef7575e9609f",
+          "parentUid" : "42bf8703214af918e2083fb5a05eb26e",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1608136161790,
+            "stop" : 1608136161790,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "42bf8703214af918e2083fb5a05eb26e"
+      } ],
+      "uid" : "99317dc4856d5c71c0a966c3d36b6f31"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

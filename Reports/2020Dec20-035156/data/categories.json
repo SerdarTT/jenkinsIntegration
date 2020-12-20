@@ -1,0 +1,65 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated initDriver.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "b5439de1937ad014",
+        "parentUid" : "1196474cd18676e9b35b7833c4672b91",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608497514667,
+          "stop" : 1608497514668,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "bda78d5d6f52b86a",
+        "parentUid" : "1196474cd18676e9b35b7833c4672b91",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608497514803,
+          "stop" : 1608497514803,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "1eef13aab6f1c77a",
+        "parentUid" : "1196474cd18676e9b35b7833c4672b91",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608497514811,
+          "stop" : 1608497514811,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "5809c770613c0d41",
+        "parentUid" : "1196474cd18676e9b35b7833c4672b91",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608497514819,
+          "stop" : 1608497514819,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "1196474cd18676e9b35b7833c4672b91"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

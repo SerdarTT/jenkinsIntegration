@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Dec 20 13:12:33 EST 2020","Sun Dec 20 13:12:50 EST 2020","17195","Default Suite","CrudProject","Tests.DeleteTest","Tests.DeleteTest","deleteArticle","User can delete article",""

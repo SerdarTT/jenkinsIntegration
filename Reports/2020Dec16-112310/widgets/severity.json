@@ -1,0 +1,81 @@
+[ {
+  "uid" : "7d4ca8ba05e2b5b8",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608135788262,
+    "stop" : 1608135788264,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bed680c41ab04a6f",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608135788299,
+    "stop" : 1608135788299,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4806b9f911257c76",
+  "name" : "User can delete article",
+  "time" : {
+    "start" : 1608135788316,
+    "stop" : 1608135788316,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cd7b5a4c79c3f152",
+  "name" : "Creating new post",
+  "time" : {
+    "start" : 1608135788276,
+    "stop" : 1608135788279,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1ba768230c62a6eb",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608135788313,
+    "stop" : 1608135788313,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d3d3dc10d4b3ae78",
+  "name" : "User can update article",
+  "time" : {
+    "start" : 1608135788304,
+    "stop" : 1608135788304,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "16701c15c5e3a629",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608135788289,
+    "stop" : 1608135788289,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f030c2a46e183d5a",
+  "name" : "Edit to the article",
+  "time" : {
+    "start" : 1608135788292,
+    "stop" : 1608135788292,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

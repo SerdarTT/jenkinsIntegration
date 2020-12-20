@@ -1,0 +1,162 @@
+{
+  "a3e9e91f4e74f42a689f587d61a90b87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9e270a3dab162ad7",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated initDriver.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1608497514821,
+        "stop" : 1608497514821,
+        "duration" : 0
+      }
+    } ]
+  },
+  "746c5b2421ee7261f6b00a0ac27325f3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1eef13aab6f1c77a",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated initDriver.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1608497514811,
+        "stop" : 1608497514811,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4fd6b304de43308357afd91396347877" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a75950d5a768f1c",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated initDriver.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1608497514804,
+        "stop" : 1608497514804,
+        "duration" : 0
+      }
+    } ]
+  },
+  "11f95a93f6b96e386e713f8166cc3f60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10adc4a69c3d9f72",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated initDriver.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1608497514760,
+        "stop" : 1608497514761,
+        "duration" : 1
+      }
+    } ]
+  },
+  "bf067ecca12b296a6c1cca0bdbc19fdc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5809c770613c0d41",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated initDriver.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1608497514819,
+        "stop" : 1608497514819,
+        "duration" : 0
+      }
+    } ]
+  },
+  "16683ffc1fe0a24c93062d6a4f4ff93b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10694ce46fac7c37",
+      "status" : "skipped",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated initDriver.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1608497514813,
+        "stop" : 1608497514813,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6285f02949c9125dfae5109f8dd91895" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5439de1937ad014",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated initDriver.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1608497514667,
+        "stop" : 1608497514668,
+        "duration" : 1
+      }
+    } ]
+  },
+  "45572e3c2aef1789d635afcccb10d8cd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bda78d5d6f52b86a",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @BeforeMethod annotated initDriver.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1608497514803,
+        "stop" : 1608497514803,
+        "duration" : 0
+      }
+    } ]
+  }
+}

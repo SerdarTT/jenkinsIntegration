@@ -1,0 +1,161 @@
+[ {
+  "uid" : "22853f01cf27a50f",
+  "name" : "testWait",
+  "time" : {
+    "start" : 1608136139890,
+    "stop" : 1608136161747,
+    "duration" : 21857
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ca621febeb2b15eb",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136139865,
+    "stop" : 1608136139865,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "77a9ac69d4c88920",
+  "name" : "SignUp -2",
+  "time" : {
+    "start" : 1608136139884,
+    "stop" : 1608136139884,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d04cef7575e9609f",
+  "name" : "User can update article",
+  "time" : {
+    "start" : 1608136161790,
+    "stop" : 1608136161790,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1e9d223c601f444f",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136139851,
+    "stop" : 1608136139852,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9cc1a979166d6a12",
+  "name" : "SignUp -2",
+  "time" : {
+    "start" : 1608136139887,
+    "stop" : 1608136139887,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c52090021c82bb43",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136161767,
+    "stop" : 1608136161768,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1d3af1e13e69c171",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136139881,
+    "stop" : 1608136139881,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7269c8c7fe2695f1",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136139875,
+    "stop" : 1608136139875,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "14ba3502daf92748",
+  "name" : "takeSnippet",
+  "time" : {
+    "start" : 1608136135724,
+    "stop" : 1608136139768,
+    "duration" : 4044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb40a92d16a15c5b",
+  "name" : "User can login with the valid credentials",
+  "time" : {
+    "start" : 1608136139872,
+    "stop" : 1608136139872,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "418e09ac9ed5b1ae",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136161784,
+    "stop" : 1608136161784,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e057969323e93ec6",
+  "name" : "Creating new post",
+  "time" : {
+    "start" : 1608136139861,
+    "stop" : 1608136139861,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "15ee7666d78a4683",
+  "name" : "Edit to the article",
+  "time" : {
+    "start" : 1608136161777,
+    "stop" : 1608136161777,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c81a1b2515c0d39d",
+  "name" : "User should not be able to log in",
+  "time" : {
+    "start" : 1608136139869,
+    "stop" : 1608136139869,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f998a190d332893c",
+  "name" : "User can delete article",
+  "time" : {
+    "start" : 1608136139878,
+    "stop" : 1608136139878,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

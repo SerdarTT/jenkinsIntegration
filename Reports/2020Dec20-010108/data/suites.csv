@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 20 13:00:42 EST 2020","Sun Dec 20 13:01:06 EST 2020","24504","Default Suite","CrudProject","Tests.UpdateTest","Tests.UpdateTest","updateArticle","User can update article",""

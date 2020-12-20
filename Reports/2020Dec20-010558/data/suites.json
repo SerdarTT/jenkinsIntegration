@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "CrudProject",
+      "children" : [ {
+        "name" : "Tests.DeleteTest",
+        "children" : [ {
+          "name" : "User can delete article",
+          "uid" : "a6608c759ee40e0a",
+          "parentUid" : "668d2e32796eaa87ed382268fae64b85",
+          "status" : "passed",
+          "time" : {
+            "start" : 1608487548962,
+            "stop" : 1608487556749,
+            "duration" : 7787
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "668d2e32796eaa87ed382268fae64b85"
+      } ],
+      "uid" : "99317dc4856d5c71c0a966c3d36b6f31"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

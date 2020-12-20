@@ -1,0 +1,108 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "1e9d223c601f444f",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139851,
+          "stop" : 1608136139852,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "ca621febeb2b15eb",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139865,
+          "stop" : 1608136139865,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "7269c8c7fe2695f1",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139875,
+          "stop" : 1608136139875,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "1d3af1e13e69c171",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139881,
+          "stop" : 1608136139881,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "c52090021c82bb43",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136161767,
+          "stop" : 1608136161768,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "418e09ac9ed5b1ae",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136161784,
+          "stop" : 1608136161784,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "350102882333a6cc9bfacaeb2a514fe1"
+    }, {
+      "name" : "Expected condition failed: waiting for title to be \"Hotels.com\". Current title: \"\" (tried for 20 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "testWait",
+        "uid" : "22853f01cf27a50f",
+        "parentUid" : "1da15723bcce0d995a1e8cf1ff29bd94",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139890,
+          "stop" : 1608136161747,
+          "duration" : 21857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1da15723bcce0d995a1e8cf1ff29bd94"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

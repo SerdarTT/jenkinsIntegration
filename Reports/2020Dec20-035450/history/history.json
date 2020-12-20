@@ -1,0 +1,141 @@
+{
+  "a3e9e91f4e74f42a689f587d61a90b87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e552899928c88dd",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=87.0.4280.88)\nBuild info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'\nSystem info: host: 'Serdars-MBP', ip: 'fe80:0:0:0:416:52d5:f388:ff45%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/1d/nqgdjfz11lb...}, goog:chromeOptions: {debuggerAddress: localhost:64401}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f3cc9f9419ffba8cc131f886a51b3742\n*** Element info: {Using=xpath, value=//input[@placeholder='Username']}",
+      "time" : {
+        "start" : 1608497683260,
+        "stop" : 1608497686622,
+        "duration" : 3362
+      }
+    } ]
+  },
+  "4fd6b304de43308357afd91396347877" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "156899149afe8e63",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=87.0.4280.88)\nBuild info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'\nSystem info: host: 'Serdars-MBP', ip: 'fe80:0:0:0:416:52d5:f388:ff45%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/1d/nqgdjfz11lb...}, goog:chromeOptions: {debuggerAddress: localhost:64306}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 76b319cf4f8b7720396e0643ad70bc09\n*** Element info: {Using=xpath, value=//input[@placeholder='Username']}",
+      "time" : {
+        "start" : 1608497671381,
+        "stop" : 1608497673500,
+        "duration" : 2119
+      }
+    } ]
+  },
+  "11f95a93f6b96e386e713f8166cc3f60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14c6356d1d5cf508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608497650159,
+        "stop" : 1608497667536,
+        "duration" : 17377
+      }
+    } ]
+  },
+  "7b7c8556260c62608556fdd267597a1f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3cc5ff4950420375",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=87.0.4280.88)\nBuild info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'\nSystem info: host: 'Serdars-MBP', ip: 'fe80:0:0:0:416:52d5:f388:ff45%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/1d/nqgdjfz11lb...}, goog:chromeOptions: {debuggerAddress: localhost:64352}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c156da96cfc9967a20e4467862f4f896",
+      "time" : {
+        "start" : 1608497679198,
+        "stop" : 1608497679199,
+        "duration" : 1
+      }
+    } ]
+  },
+  "16683ffc1fe0a24c93062d6a4f4ff93b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d709fa16c6ce8fa",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=87.0.4280.88)\nBuild info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'\nSystem info: host: 'Serdars-MBP', ip: 'fe80:0:0:0:416:52d5:f388:ff45%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/1d/nqgdjfz11lb...}, goog:chromeOptions: {debuggerAddress: localhost:64352}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c156da96cfc9967a20e4467862f4f896\n*** Element info: {Using=xpath, value=//input[@placeholder='Username']}",
+      "time" : {
+        "start" : 1608497676629,
+        "stop" : 1608497678946,
+        "duration" : 2317
+      }
+    } ]
+  },
+  "9993bc52bdb0179a906901dd033d51d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d3972ba91851f9a3",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=87.0.4280.88)\nBuild info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'\nSystem info: host: 'Serdars-MBP', ip: 'fe80:0:0:0:416:52d5:f388:ff45%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/1d/nqgdjfz11lb...}, goog:chromeOptions: {debuggerAddress: localhost:64401}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f3cc9f9419ffba8cc131f886a51b3742",
+      "time" : {
+        "start" : 1608497686707,
+        "stop" : 1608497686708,
+        "duration" : 1
+      }
+    } ]
+  },
+  "3b470884a4f96ee3dce9f30c4f8f5310" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83c6ded8130358fe",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=87.0.4280.88)\nBuild info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'\nSystem info: host: 'Serdars-MBP', ip: 'fe80:0:0:0:416:52d5:f388:ff45%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/1d/nqgdjfz11lb...}, goog:chromeOptions: {debuggerAddress: localhost:64306}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 76b319cf4f8b7720396e0643ad70bc09",
+      "time" : {
+        "start" : 1608497673539,
+        "stop" : 1608497673540,
+        "duration" : 1
+      }
+    } ]
+  }
+}

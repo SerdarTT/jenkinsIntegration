@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Tests",
+    "children" : [ {
+      "name" : "CreateTest",
+      "children" : [ {
+        "name" : "userCreate",
+        "uid" : "6ee325159dd66fab",
+        "parentUid" : "65891e33f01e657c3881617675492feb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608003228740,
+          "stop" : 1608003246684,
+          "duration" : 17944
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "65891e33f01e657c3881617675492feb"
+    }, {
+      "name" : "ReadTest",
+      "children" : [ {
+        "name" : "editArticle",
+        "uid" : "4accf6a03c1064d1",
+        "parentUid" : "88e421b8eb44f6f1f7312140ada0a6b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608003249369,
+          "stop" : 1608003261134,
+          "duration" : 11765
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "88e421b8eb44f6f1f7312140ada0a6b6"
+    }, {
+      "name" : "UpdateTest",
+      "children" : [ {
+        "name" : "updateArticle",
+        "uid" : "9353fff2f3af8ddc",
+        "parentUid" : "7b3acf84b45985fd69be28b60994ce75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608003263906,
+          "stop" : 1608003284259,
+          "duration" : 20353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "7b3acf84b45985fd69be28b60994ce75"
+    }, {
+      "name" : "DeleteTest",
+      "children" : [ {
+        "name" : "deleteArticle",
+        "uid" : "f800893d1eb3d2cd",
+        "parentUid" : "f0cde28a056f4dee95e90c1ead6d6363",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608003286846,
+          "stop" : 1608003294322,
+          "duration" : 7476
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "f0cde28a056f4dee95e90c1ead6d6363"
+    } ],
+    "uid" : "fc39173c9dc08e281c680147b63fcad9"
+  } ]
+}

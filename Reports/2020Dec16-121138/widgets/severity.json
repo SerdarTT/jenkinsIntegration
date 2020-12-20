@@ -1,0 +1,41 @@
+[ {
+  "uid" : "e97aa2c772024f27",
+  "name" : "Creating new post",
+  "time" : {
+    "start" : 1608138597366,
+    "stop" : 1608138620257,
+    "duration" : 22891
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a50cbe81b4f84dd",
+  "name" : "User can delete article",
+  "time" : {
+    "start" : 1608138686142,
+    "stop" : 1608138696585,
+    "duration" : 10443
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2493782f7b10b277",
+  "name" : "Edit to the article",
+  "time" : {
+    "start" : 1608138629585,
+    "stop" : 1608138647615,
+    "duration" : 18030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f55515ca1318fbcd",
+  "name" : "User can update article",
+  "time" : {
+    "start" : 1608138656356,
+    "stop" : 1608138675944,
+    "duration" : 19588
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

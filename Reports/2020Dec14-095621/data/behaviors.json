@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Creating new post",
+    "uid" : "3172eefd1a62544f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608000914291,
+      "stop" : 1608000932093,
+      "duration" : 17802
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+  }, {
+    "name" : "Edit to the article",
+    "uid" : "1a4e235ccb8b4712",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608000934832,
+      "stop" : 1608000946547,
+      "duration" : 11715
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+  }, {
+    "name" : "User can update article",
+    "uid" : "2161a5aa5f42cfee",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608000949143,
+      "stop" : 1608000969442,
+      "duration" : 20299
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+  }, {
+    "name" : "User can delete article",
+    "uid" : "8189afc7b503041f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608000971957,
+      "stop" : 1608000979404,
+      "duration" : 7447
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+  } ]
+}

@@ -1,0 +1,11 @@
+[ {
+  "uid" : "6cb048e9581220ea",
+  "name" : "User can delete article",
+  "time" : {
+    "start" : 1608487953505,
+    "stop" : 1608487970700,
+    "duration" : 17195
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

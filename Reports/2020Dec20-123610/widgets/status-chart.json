@@ -1,0 +1,21 @@
+[ {
+  "uid" : "ec2443491623545a",
+  "name" : "User can update article",
+  "time" : {
+    "start" : 1608485767856,
+    "stop" : 1608485767860,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1d3d2c00ded9f04",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608485767724,
+    "stop" : 1608485767727,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

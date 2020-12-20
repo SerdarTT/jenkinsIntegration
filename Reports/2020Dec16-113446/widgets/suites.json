@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "c0e3923ae8db6db25129a0c4bc3bc459",
+    "name" : "CRUD article",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 4,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    }
+  } ]
+}

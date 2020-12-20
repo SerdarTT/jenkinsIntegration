@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7ea2aa9273be8b6e",
+  "name" : "Edit to the article",
+  "time" : {
+    "start" : 1608486073962,
+    "stop" : 1608486086168,
+    "duration" : 12206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

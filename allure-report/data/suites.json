@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "CRUD article",
+    "children" : [ {
+      "name" : "Delete article",
+      "children" : [ {
+        "name" : "Tests.DeleteTest",
+        "children" : [ {
+          "name" : "User can delete article",
+          "uid" : "58099258c4c47e34",
+          "parentUid" : "141d02ab6fc7d652b99d1e3136559555",
+          "status" : "passed",
+          "time" : {
+            "start" : 1608498736574,
+            "stop" : 1608498750990,
+            "duration" : 14416
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "sauce", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+        } ],
+        "uid" : "141d02ab6fc7d652b99d1e3136559555"
+      } ],
+      "uid" : "4b4540f7c98e84002e4badcfad7492cd"
+    } ],
+    "uid" : "c0e3923ae8db6db25129a0c4bc3bc459"
+  } ]
+}

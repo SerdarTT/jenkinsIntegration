@@ -1,0 +1,253 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "ZDiscussion",
+    "children" : [ {
+      "name" : "Screenshot",
+      "children" : [ {
+        "name" : "takeSnippet",
+        "uid" : "14ba3502daf92748",
+        "parentUid" : "499c6010a317174f1a4124a0133b63ee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608136135724,
+          "stop" : 1608136139768,
+          "duration" : 4044
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "499c6010a317174f1a4124a0133b63ee"
+    }, {
+      "name" : "WaitConcept",
+      "children" : [ {
+        "name" : "testWait",
+        "uid" : "22853f01cf27a50f",
+        "parentUid" : "a524af1d5bd5616c595696c3e8675d1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139890,
+          "stop" : 1608136161747,
+          "duration" : 21857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a524af1d5bd5616c595696c3e8675d1c"
+    } ],
+    "uid" : "37e15d31044854b5358a5165c1c6bff2"
+  }, {
+    "name" : "Tests",
+    "children" : [ {
+      "name" : "CreateTest",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "1e9d223c601f444f",
+        "parentUid" : "65891e33f01e657c3881617675492feb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139851,
+          "stop" : 1608136139852,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "userCreate",
+        "uid" : "e057969323e93ec6",
+        "parentUid" : "65891e33f01e657c3881617675492feb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139861,
+          "stop" : 1608136139861,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "65891e33f01e657c3881617675492feb"
+    }, {
+      "name" : "HomePageTest",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "ca621febeb2b15eb",
+        "parentUid" : "cb71e1aae83ddb4ae06eaf9596405aad",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139865,
+          "stop" : 1608136139865,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "userCantLogin",
+        "uid" : "c81a1b2515c0d39d",
+        "parentUid" : "cb71e1aae83ddb4ae06eaf9596405aad",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139869,
+          "stop" : 1608136139869,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "userLogIn",
+        "uid" : "bb40a92d16a15c5b",
+        "parentUid" : "cb71e1aae83ddb4ae06eaf9596405aad",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139872,
+          "stop" : 1608136139872,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cb71e1aae83ddb4ae06eaf9596405aad"
+    }, {
+      "name" : "DeleteTest",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "7269c8c7fe2695f1",
+        "parentUid" : "f0cde28a056f4dee95e90c1ead6d6363",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139875,
+          "stop" : 1608136139875,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteArticle",
+        "uid" : "f998a190d332893c",
+        "parentUid" : "f0cde28a056f4dee95e90c1ead6d6363",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139878,
+          "stop" : 1608136139878,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f0cde28a056f4dee95e90c1ead6d6363"
+    }, {
+      "name" : "SignUp",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "1d3af1e13e69c171",
+        "parentUid" : "e35b2fd084f3887c157e65bc7893c8f4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139881,
+          "stop" : 1608136139881,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUp1",
+        "uid" : "77a9ac69d4c88920",
+        "parentUid" : "e35b2fd084f3887c157e65bc7893c8f4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139884,
+          "stop" : 1608136139884,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUp2",
+        "uid" : "9cc1a979166d6a12",
+        "parentUid" : "e35b2fd084f3887c157e65bc7893c8f4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139887,
+          "stop" : 1608136139887,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e35b2fd084f3887c157e65bc7893c8f4"
+    }, {
+      "name" : "ReadTest",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "c52090021c82bb43",
+        "parentUid" : "88e421b8eb44f6f1f7312140ada0a6b6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136161767,
+          "stop" : 1608136161768,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "editArticle",
+        "uid" : "15ee7666d78a4683",
+        "parentUid" : "88e421b8eb44f6f1f7312140ada0a6b6",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136161777,
+          "stop" : 1608136161777,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "88e421b8eb44f6f1f7312140ada0a6b6"
+    }, {
+      "name" : "UpdateTest",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "418e09ac9ed5b1ae",
+        "parentUid" : "7b3acf84b45985fd69be28b60994ce75",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136161784,
+          "stop" : 1608136161784,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateArticle",
+        "uid" : "d04cef7575e9609f",
+        "parentUid" : "7b3acf84b45985fd69be28b60994ce75",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136161790,
+          "stop" : 1608136161790,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b3acf84b45985fd69be28b60994ce75"
+    } ],
+    "uid" : "fc39173c9dc08e281c680147b63fcad9"
+  } ]
+}

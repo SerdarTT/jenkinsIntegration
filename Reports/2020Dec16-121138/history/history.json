@@ -1,0 +1,79 @@
+{
+  "b4f03a2a1fbf2b8884f3d21855df7d54" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e97aa2c772024f27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608138597366,
+        "stop" : 1608138620257,
+        "duration" : 22891
+      }
+    } ]
+  },
+  "f5d98e99760dea4b4bb754e6ea7bc8b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f55515ca1318fbcd",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//h1[contains(text(),'Madison NY')]\"}\n  (Session info: chrome=87.0.4280.66)\n  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'\nSystem info: host: 'Serdars-MBP', ip: 'fe80:0:0:0:27:50de:9bc1:4c9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '14.0.1'\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52039}, handlesAlerts: true, hasMetadata: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 87.0.4280.66, webStorageEnabled: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 996775887b4e4338975bf106e8d...}\nSession ID: 996775887b4e4338975bf106e8dd63bd\n*** Element info: {Using=xpath, value=//h1[contains(text(),'Madison NY')]}",
+      "time" : {
+        "start" : 1608138656356,
+        "stop" : 1608138675944,
+        "duration" : 19588
+      }
+    } ]
+  },
+  "a65078f88155fdefa41df1c383f07fdd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2493782f7b10b277",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608138629585,
+        "stop" : 1608138647615,
+        "duration" : 18030
+      }
+    } ]
+  },
+  "27e71dfefc2ae1707251f9a2b2276e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7a50cbe81b4f84dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608138686142,
+        "stop" : 1608138696585,
+        "duration" : 10443
+      }
+    } ]
+  }
+}

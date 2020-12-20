@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7e753496b57a1b65",
+  "name" : "User can update article",
+  "time" : {
+    "start" : 1608485925077,
+    "stop" : 1608485942538,
+    "duration" : 17461
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

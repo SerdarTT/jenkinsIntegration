@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "4122@Serdars-MBP.TestNG-test=Delete article-1(37)",
+      "children" : [ {
+        "name" : "User can delete article",
+        "uid" : "2c7bd72caae05fc2",
+        "parentUid" : "b55812560ba1b16224d2bf928d0fe8ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608498238205,
+          "stop" : 1608498247740,
+          "duration" : 9535
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "b55812560ba1b16224d2bf928d0fe8ac"
+    }, {
+      "name" : "4122@Serdars-MBP.TestNG-test=Create an article-1(17)",
+      "children" : [ {
+        "name" : "Creating new post",
+        "uid" : "dee83cc71f41a70c",
+        "parentUid" : "d09a15bf44c5f9f7635f31a8c80b7c2a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608498170309,
+          "stop" : 1608498187861,
+          "duration" : 17552
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "d09a15bf44c5f9f7635f31a8c80b7c2a"
+    }, {
+      "name" : "4122@Serdars-MBP.TestNG-test=Update article-1(32)",
+      "children" : [ {
+        "name" : "User can update article",
+        "uid" : "c4b456c1b642bfe1",
+        "parentUid" : "c2dc51559c1c1739163dc990438618f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608498211019,
+          "stop" : 1608498235368,
+          "duration" : 24349
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "c2dc51559c1c1739163dc990438618f4"
+    }, {
+      "name" : "4122@Serdars-MBP.TestNG-test=Read article-1(26)",
+      "children" : [ {
+        "name" : "Edit to the article",
+        "uid" : "93baf957994ce101",
+        "parentUid" : "c8e1aa225d2be71a09a9dcd4584c2f52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608498190648,
+          "stop" : 1608498207666,
+          "duration" : 17018
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "c8e1aa225d2be71a09a9dcd4584c2f52"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

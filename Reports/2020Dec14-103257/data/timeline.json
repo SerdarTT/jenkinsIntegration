@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "6142@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "Creating new post",
+        "uid" : "2e1fcb2c2f58bcac",
+        "parentUid" : "31769d4de479aa6362a84ea4a6e15758",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608003175244,
+          "stop" : 1608003175248,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "4154039b4a00d3ae",
+        "parentUid" : "31769d4de479aa6362a84ea4a6e15758",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608003175096,
+          "stop" : 1608003175099,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31769d4de479aa6362a84ea4a6e15758"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

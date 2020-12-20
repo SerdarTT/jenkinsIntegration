@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Tests.DeleteTest",
+    "children" : [ {
+      "name" : "deleteArticle",
+      "uid" : "c9d666d9283caecc",
+      "parentUid" : "f0cde28a056f4dee95e90c1ead6d6363",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608487595570,
+        "stop" : 1608487603311,
+        "duration" : 7741
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Tests.DeleteTest"
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "a3e9e91f4e74f42a689f587d61a90b87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3410d4ef6cd759c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608163906403,
+        "stop" : 1608163914283,
+        "duration" : 7880
+      }
+    } ]
+  },
+  "11f95a93f6b96e386e713f8166cc3f60" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "abcf0b2add699f74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608163851285,
+        "stop" : 1608163869227,
+        "duration" : 17942
+      }
+    } ]
+  },
+  "4fd6b304de43308357afd91396347877" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5fa4eed023c9b2a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608163871886,
+        "stop" : 1608163883611,
+        "duration" : 11725
+      }
+    } ]
+  },
+  "16683ffc1fe0a24c93062d6a4f4ff93b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77bfbe32bc9d05c7",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//h1[contains(text(),'Madison NY')]\"}\n  (Session info: chrome=87.0.4280.88)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'\nSystem info: host: 'Serdars-MBP', ip: 'fe80:0:0:0:1436:377e:735a:1742%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.9'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/1d/nqgdjfz11lb...}, goog:chromeOptions: {debuggerAddress: localhost:50629}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 584bbefec4d452e4234a061785ac93a6\n*** Element info: {Using=xpath, value=//h1[contains(text(),'Madison NY')]}",
+      "time" : {
+        "start" : 1608163886221,
+        "stop" : 1608163903271,
+        "duration" : 17050
+      }
+    } ]
+  }
+}

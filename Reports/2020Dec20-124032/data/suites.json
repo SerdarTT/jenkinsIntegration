@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "CrudProject",
+      "children" : [ {
+        "name" : "Tests.HomePageTest",
+        "children" : [ {
+          "name" : "User should not be able to log in",
+          "uid" : "31e212d3e88f5f0e",
+          "parentUid" : "64f8df0cbb609443cc8f59feafd60fda",
+          "status" : "passed",
+          "time" : {
+            "start" : 1608486025055,
+            "stop" : 1608486029764,
+            "duration" : 4709
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "64f8df0cbb609443cc8f59feafd60fda"
+      } ],
+      "uid" : "99317dc4856d5c71c0a966c3d36b6f31"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

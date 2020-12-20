@@ -1,0 +1,161 @@
+[ {
+  "uid" : "8ef3f07bd95d7847",
+  "name" : "User can delete article",
+  "time" : {
+    "start" : 1608136262689,
+    "stop" : 1608136262690,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "fef869fca21de57c",
+  "name" : "User should not be able to log in",
+  "time" : {
+    "start" : 1608136262704,
+    "stop" : 1608136262704,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "63872d8b80859c91",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136262712,
+    "stop" : 1608136262712,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "318b767d9e764bf0",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136262700,
+    "stop" : 1608136262701,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "170df040ad68df54",
+  "name" : "testWait",
+  "time" : {
+    "start" : 1608136262730,
+    "stop" : 1608136274885,
+    "duration" : 12155
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8a10dc7028bfcad0",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136262719,
+    "stop" : 1608136262719,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "284ba5d74cd142fd",
+  "name" : "takeSnippet",
+  "time" : {
+    "start" : 1608136258727,
+    "stop" : 1608136262593,
+    "duration" : 3866
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95575bc7a4d7629e",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136262693,
+    "stop" : 1608136262693,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "99a1e2c0853a7776",
+  "name" : "SignUp -2",
+  "time" : {
+    "start" : 1608136262722,
+    "stop" : 1608136262722,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f271ffa84b51fce6",
+  "name" : "User can login with the valid credentials",
+  "time" : {
+    "start" : 1608136262707,
+    "stop" : 1608136262707,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "85ff46a924c14cab",
+  "name" : "SignUp -2",
+  "time" : {
+    "start" : 1608136262725,
+    "stop" : 1608136262726,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5bba62b97c411e1c",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136262680,
+    "stop" : 1608136262682,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7df0a7b5f58a99b8",
+  "name" : "initDriver",
+  "time" : {
+    "start" : 1608136274897,
+    "stop" : 1608136274897,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "746cd5e8478ecb73",
+  "name" : "User can update article",
+  "time" : {
+    "start" : 1608136262696,
+    "stop" : 1608136262696,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b067c9e58460fa2c",
+  "name" : "Creating new post",
+  "time" : {
+    "start" : 1608136262715,
+    "stop" : 1608136262715,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8636fd8efde70d0",
+  "name" : "Edit to the article",
+  "time" : {
+    "start" : 1608136274900,
+    "stop" : 1608136274900,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,94 @@
+{
+  "uid" : "65c7813f29fde2e1",
+  "name" : "User can delete article",
+  "fullName" : "Tests.DeleteTest.deleteArticle",
+  "historyId" : "6e3c41f4c13e38e05028c882e98802ea",
+  "time" : {
+    "start" : 1607986095896,
+    "stop" : 1607986103476,
+    "duration" : 7580
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initDriver",
+    "time" : {
+      "start" : 1607986093200,
+      "stop" : 1607986095888,
+      "duration" : 2688
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "removeOldReport",
+    "time" : {
+      "start" : 1607986027274,
+      "stop" : 1607986027300,
+      "duration" : 26
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Tests.DeleteTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.DeleteTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteArticle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "CRUD article"
+  }, {
+    "name" : "suite",
+    "value" : "Delete article"
+  }, {
+    "name" : "subSuite",
+    "value" : "Tests.DeleteTest"
+  }, {
+    "name" : "host",
+    "value" : "Serdars-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "4354@Serdars-MBP.TestNG-test=Delete article-1(34)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65c7813f29fde2e1.json",
+  "parameterValues" : [ ]
+}

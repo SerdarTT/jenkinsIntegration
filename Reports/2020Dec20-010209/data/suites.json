@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "CrudProject",
+      "children" : [ {
+        "name" : "Tests.ReadTest",
+        "children" : [ {
+          "name" : "Edit to the article",
+          "uid" : "70a0d23731ca02dc",
+          "parentUid" : "1534a5e915defc428507256df86ba512",
+          "status" : "passed",
+          "time" : {
+            "start" : 1608487315210,
+            "stop" : 1608487327177,
+            "duration" : 11967
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1534a5e915defc428507256df86ba512"
+      } ],
+      "uid" : "99317dc4856d5c71c0a966c3d36b6f31"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

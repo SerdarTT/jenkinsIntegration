@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "2483@Serdars-MBP.TestNG-test=Create an article-1(17)",
+      "children" : [ {
+        "name" : "Creating new post",
+        "uid" : "a36465c68870c5e8",
+        "parentUid" : "cc0308a8f4c41808c9122e51b32fdcf9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608136507659,
+          "stop" : 1608136525643,
+          "duration" : 17984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "cc0308a8f4c41808c9122e51b32fdcf9"
+    }, {
+      "name" : "2483@Serdars-MBP.TestNG-test=Delete article-1(36)",
+      "children" : [ {
+        "name" : "User can delete article",
+        "uid" : "4fa2f5e63603e314",
+        "parentUid" : "20487d7a17f2867d467d61b024373d6c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608136565813,
+          "stop" : 1608136573304,
+          "duration" : 7491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "20487d7a17f2867d467d61b024373d6c"
+    }, {
+      "name" : "2483@Serdars-MBP.TestNG-test=Read article-1(26)",
+      "children" : [ {
+        "name" : "Edit to the article",
+        "uid" : "ea5067006ed19a7",
+        "parentUid" : "304a7148b1bc475d472618dd37ee60cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608136528436,
+          "stop" : 1608136540157,
+          "duration" : 11721
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "304a7148b1bc475d472618dd37ee60cd"
+    }, {
+      "name" : "2483@Serdars-MBP.TestNG-test=Update article-1(31)",
+      "children" : [ {
+        "name" : "User can update article",
+        "uid" : "d6cf3723d5c85042",
+        "parentUid" : "2feb1a2724b5c7bf567ff9742d7e0cdb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608136542650,
+          "stop" : 1608136562931,
+          "duration" : 20281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "2feb1a2724b5c7bf567ff9742d7e0cdb"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

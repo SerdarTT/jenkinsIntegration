@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-20T21:12:22Z" name="CRUD article" finished-at="2020-12-20T21:13:40Z" duration-ms="78115">
+    <groups>
+    </groups>
+    <test started-at="2020-12-20T21:12:22Z" name="Create an article" finished-at="2020-12-20T21:12:44Z" duration-ms="21568">
+      <class name="Tests.CreateTest">
+        <test-method is-config="true" signature="initDriver(java.lang.String, java.lang.String)[pri:0, instance:Tests.CreateTest@3a095ec0]" started-at="2020-12-20T21:12:22Z" name="initDriver" finished-at="2020-12-20T21:12:26Z" duration-ms="3674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://candidatex:qa-is-cool@qa-task.backbasecloud.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method signature="userCreate()[pri:0, instance:Tests.CreateTest@3a095ec0]" started-at="2020-12-20T21:12:26Z" name="userCreate" description="Creating new post" finished-at="2020-12-20T21:12:43Z" duration-ms="17585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userCreate -->
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult)[pri:0, instance:Tests.CreateTest@3a095ec0]" started-at="2020-12-20T21:12:44Z" name="quitDriver" finished-at="2020-12-20T21:12:44Z" duration-ms="103" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userCreate status=SUCCESS method=CreateTest.userCreate()[pri:0, instance:Tests.CreateTest@3a095ec0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Tests.CreateTest -->
+    </test> <!-- Create an article -->
+    <test started-at="2020-12-20T21:12:44Z" name="Read article" finished-at="2020-12-20T21:13:01Z" duration-ms="17318">
+      <class name="Tests.ReadTest">
+        <test-method is-config="true" signature="initDriver(java.lang.String, java.lang.String)[pri:0, instance:Tests.ReadTest@63e5e5b4]" started-at="2020-12-20T21:12:44Z" name="initDriver" finished-at="2020-12-20T21:12:47Z" duration-ms="3222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://candidatex:qa-is-cool@qa-task.backbasecloud.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method signature="editArticle()[pri:0, instance:Tests.ReadTest@63e5e5b4]" started-at="2020-12-20T21:12:47Z" name="editArticle" description="Edit to the article" finished-at="2020-12-20T21:13:01Z" duration-ms="13997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editArticle -->
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult)[pri:0, instance:Tests.ReadTest@63e5e5b4]" started-at="2020-12-20T21:13:01Z" name="quitDriver" finished-at="2020-12-20T21:13:01Z" duration-ms="84" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=editArticle status=SUCCESS method=ReadTest.editArticle()[pri:0, instance:Tests.ReadTest@63e5e5b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Tests.ReadTest -->
+    </test> <!-- Read article -->
+    <test started-at="2020-12-20T21:13:01Z" name="Update article" finished-at="2020-12-20T21:13:28Z" duration-ms="26892">
+      <class name="Tests.UpdateTest">
+        <test-method is-config="true" signature="initDriver(java.lang.String, java.lang.String)[pri:0, instance:Tests.UpdateTest@31e32ea2]" started-at="2020-12-20T21:13:01Z" name="initDriver" finished-at="2020-12-20T21:13:04Z" duration-ms="2529" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://candidatex:qa-is-cool@qa-task.backbasecloud.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method signature="updateArticle()[pri:0, instance:Tests.UpdateTest@31e32ea2]" started-at="2020-12-20T21:13:04Z" name="updateArticle" description="User can update article" finished-at="2020-12-20T21:13:28Z" duration-ms="24274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateArticle -->
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult)[pri:0, instance:Tests.UpdateTest@31e32ea2]" started-at="2020-12-20T21:13:28Z" name="quitDriver" finished-at="2020-12-20T21:13:28Z" duration-ms="85" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=updateArticle status=SUCCESS method=UpdateTest.updateArticle()[pri:0, instance:Tests.UpdateTest@31e32ea2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Tests.UpdateTest -->
+    </test> <!-- Update article -->
+    <test started-at="2020-12-20T21:13:28Z" name="Delete article" finished-at="2020-12-20T21:13:40Z" duration-ms="12284">
+      <class name="Tests.DeleteTest">
+        <test-method is-config="true" signature="removeOldReport()[pri:0, instance:Tests.DeleteTest@33abde31]" started-at="2020-12-20T21:12:22Z" name="removeOldReport" finished-at="2020-12-20T21:12:22Z" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeOldReport -->
+        <test-method is-config="true" signature="initDriver(java.lang.String, java.lang.String)[pri:0, instance:Tests.DeleteTest@33abde31]" started-at="2020-12-20T21:13:28Z" name="initDriver" finished-at="2020-12-20T21:13:30Z" duration-ms="2490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://candidatex:qa-is-cool@qa-task.backbasecloud.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method signature="deleteArticle()[pri:0, instance:Tests.DeleteTest@33abde31]" started-at="2020-12-20T21:13:30Z" name="deleteArticle" description="User can delete article" finished-at="2020-12-20T21:13:40Z" duration-ms="9644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteArticle -->
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult)[pri:0, instance:Tests.DeleteTest@33abde31]" started-at="2020-12-20T21:13:40Z" name="quitDriver" finished-at="2020-12-20T21:13:40Z" duration-ms="90" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteArticle status=SUCCESS method=DeleteTest.deleteArticle()[pri:0, instance:Tests.DeleteTest@33abde31] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="createReport()[pri:0, instance:Tests.DeleteTest@33abde31]" started-at="2020-12-20T21:13:40Z" name="createReport" finished-at="2020-12-20T21:13:41Z" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReport -->
+      </class> <!-- Tests.DeleteTest -->
+    </test> <!-- Delete article -->
+  </suite> <!-- CRUD article -->
+</testng-results>

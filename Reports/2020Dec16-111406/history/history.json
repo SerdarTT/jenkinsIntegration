@@ -1,0 +1,162 @@
+{
+  "603f7fd3d483695d126d08966f3c5d0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "525d09957012f1cf",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1608135243578,
+        "stop" : 1608135243580,
+        "duration" : 2
+      }
+    } ]
+  },
+  "1d456310f7d6bf14fbceaacaa9d83f98" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fb63f1ef51b98e4",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1608135243607,
+        "stop" : 1608135243607,
+        "duration" : 0
+      }
+    } ]
+  },
+  "68b7b48db0a57d2fb21e32d857a67a62" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7a92ac2b1504115",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1608135243621,
+        "stop" : 1608135243621,
+        "duration" : 0
+      }
+    } ]
+  },
+  "168c2bf191443b0b308e9cc4f5e0cfc1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c82c2e26d4b89c9",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1608135243597,
+        "stop" : 1608135243597,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a7b0af3014d7234cd3908b265b6982cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e976fa705def914",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1608135243611,
+        "stop" : 1608135243611,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6a9476ebf5dc645c44cb24dcc5c4a7bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2d7627ada8df9cf",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1608135243593,
+        "stop" : 1608135243593,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c56f0b56e74ea9cc54bd812c2cd4ee39" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3814b334760bf31b",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1608135243625,
+        "stop" : 1608135243625,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6e3bb80d6ae9fd5e56566e22eb6029da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f016eddfdbec82a4",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1608135243558,
+        "stop" : 1608135243560,
+        "duration" : 2
+      }
+    } ]
+  }
+}

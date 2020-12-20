@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "1442@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "Creating new post",
+        "uid" : "b0a49841423bfbdf",
+        "parentUid" : "36b47dc9b693b216ecec20fa372a77c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608485978020,
+          "stop" : 1608485996035,
+          "duration" : 18015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "36b47dc9b693b216ecec20fa372a77c1"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

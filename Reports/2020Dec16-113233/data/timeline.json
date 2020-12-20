@@ -1,0 +1,129 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "2277@Serdars-MBP.TestNG-test=Create an article-1(12)",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "e8ebee2582eb7a9a",
+        "parentUid" : "5098df2308d21ec985dfe1673d847d19",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136351067,
+          "stop" : 1608136351069,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "Creating new post",
+        "uid" : "ed99d8d219e331a4",
+        "parentUid" : "5098df2308d21ec985dfe1673d847d19",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136351081,
+          "stop" : 1608136351084,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "5098df2308d21ec985dfe1673d847d19"
+    }, {
+      "name" : "2277@Serdars-MBP.TestNG-test=Read article-1(13)",
+      "children" : [ {
+        "name" : "Edit to the article",
+        "uid" : "a677b92627160c41",
+        "parentUid" : "4e4a9be3d72abe2b9cf311089d199679",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136351095,
+          "stop" : 1608136351096,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "d691144c2d897916",
+        "parentUid" : "4e4a9be3d72abe2b9cf311089d199679",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136351093,
+          "stop" : 1608136351093,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "4e4a9be3d72abe2b9cf311089d199679"
+    }, {
+      "name" : "2277@Serdars-MBP.TestNG-test=Delete article-1(15)",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "9006422aa95f8fbe",
+        "parentUid" : "f8297bee96e62210fc68bb057ec3e0d3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136351124,
+          "stop" : 1608136351124,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "User can delete article",
+        "uid" : "39044a541d1f7c5d",
+        "parentUid" : "f8297bee96e62210fc68bb057ec3e0d3",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136351128,
+          "stop" : 1608136351129,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "f8297bee96e62210fc68bb057ec3e0d3"
+    }, {
+      "name" : "2277@Serdars-MBP.TestNG-test=Update article-1(14)",
+      "children" : [ {
+        "name" : "User can update article",
+        "uid" : "10fb261e475053b9",
+        "parentUid" : "5209a062f19610909c549e498a62e99b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136351111,
+          "stop" : 1608136351114,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "36d86f07d851e933",
+        "parentUid" : "5209a062f19610909c549e498a62e99b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136351108,
+          "stop" : 1608136351108,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "${browserName}", "https://candidatex:qa-is-cool@qa-task.backbasecloud.com" ]
+      } ],
+      "uid" : "5209a062f19610909c549e498a62e99b"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

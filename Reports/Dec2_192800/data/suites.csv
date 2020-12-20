@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Dec 14 17:47:37 EST 2020","Mon Dec 14 17:47:49 EST 2020","11820","CRUD article","Read article","Tests.ReadTest","Tests.ReadTest","editArticle","Edit to the article",""
+"passed","Mon Dec 14 17:48:15 EST 2020","Mon Dec 14 17:48:23 EST 2020","7580","CRUD article","Delete article","Tests.DeleteTest","Tests.DeleteTest","deleteArticle","User can delete article",""
+"passed","Mon Dec 14 17:47:11 EST 2020","Mon Dec 14 17:47:29 EST 2020","18138","CRUD article","Create an article","Tests.CreateTest","Tests.CreateTest","userCreate","Creating new post",""
+"passed","Mon Dec 14 17:47:52 EST 2020","Mon Dec 14 17:48:13 EST 2020","20752","CRUD article","Update article","Tests.UpdateTest","Tests.UpdateTest","updateArticle","User can update article",""

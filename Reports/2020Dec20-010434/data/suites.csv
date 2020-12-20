@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Dec 20 13:04:07 EST 2020","Sun Dec 20 13:04:31 EST 2020","24031","Default Suite","CrudProject","Tests.ReadTest","Tests.ReadTest","editArticle","Edit to the article",""

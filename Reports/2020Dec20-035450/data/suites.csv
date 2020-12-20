@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Dec 20 15:54:46 EST 2020","Sun Dec 20 15:54:46 EST 2020","1","CRUD article","Delete article","Tests.DeleteTest","Tests.DeleteTest","quitDriver","quitDriver",""
+"broken","Sun Dec 20 15:54:33 EST 2020","Sun Dec 20 15:54:33 EST 2020","1","CRUD article","Read article","Tests.ReadTest","Tests.ReadTest","quitDriver","quitDriver",""
+"broken","Sun Dec 20 15:54:31 EST 2020","Sun Dec 20 15:54:33 EST 2020","2119","CRUD article","Read article","Tests.ReadTest","Tests.ReadTest","editArticle","Edit to the article",""
+"passed","Sun Dec 20 15:54:10 EST 2020","Sun Dec 20 15:54:27 EST 2020","17377","CRUD article","Create an article","Tests.CreateTest","Tests.CreateTest","userCreate","Creating new post",""
+"broken","Sun Dec 20 15:54:43 EST 2020","Sun Dec 20 15:54:46 EST 2020","3362","CRUD article","Delete article","Tests.DeleteTest","Tests.DeleteTest","deleteArticle","User can delete article",""
+"broken","Sun Dec 20 15:54:36 EST 2020","Sun Dec 20 15:54:38 EST 2020","2317","CRUD article","Update article","Tests.UpdateTest","Tests.UpdateTest","updateArticle","User can update article",""
+"broken","Sun Dec 20 15:54:39 EST 2020","Sun Dec 20 15:54:39 EST 2020","1","CRUD article","Update article","Tests.UpdateTest","Tests.UpdateTest","quitDriver","quitDriver",""

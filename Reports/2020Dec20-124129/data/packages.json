@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Tests.ReadTest",
+    "children" : [ {
+      "name" : "editArticle",
+      "uid" : "7ea2aa9273be8b6e",
+      "parentUid" : "88e421b8eb44f6f1f7312140ada0a6b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608486073962,
+        "stop" : 1608486086168,
+        "duration" : 12206
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Tests.ReadTest"
+  } ]
+}

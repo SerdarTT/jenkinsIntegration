@@ -1,0 +1,11 @@
+[ {
+  "uid" : "b0a49841423bfbdf",
+  "name" : "Creating new post",
+  "time" : {
+    "start" : 1608485978020,
+    "stop" : 1608485996035,
+    "duration" : 18015
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

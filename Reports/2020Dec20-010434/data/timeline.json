@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "2443@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "Edit to the article",
+        "uid" : "787493ea8683fbdf",
+        "parentUid" : "29db9ad1e79f97e23cef45e4f44499ab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608487447817,
+          "stop" : 1608487471848,
+          "duration" : 24031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29db9ad1e79f97e23cef45e4f44499ab"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

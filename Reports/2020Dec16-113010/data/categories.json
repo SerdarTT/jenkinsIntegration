@@ -1,0 +1,108 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "\nParameter 'url' is required by BeforeMethod on method initDriver but has not been marked @Optional or defined\nin /Users/serdarteterbas/Library/Caches/JetBrains/IdeaIC2020.3/temp-testng-customsuite.xml",
+      "children" : [ {
+        "name" : "initDriver",
+        "uid" : "89013bb3a44e5465",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136185129,
+          "stop" : 1608136185132,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "e85e063b7a11e2b2",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136185204,
+          "stop" : 1608136185204,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "6c24a36774e69a2",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136185217,
+          "stop" : 1608136185218,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "2c84e8f0dff95793",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136185234,
+          "stop" : 1608136185234,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "6893fa29c6702315",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136185243,
+          "stop" : 1608136185244,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "31c30bed0bf8b4c3",
+        "parentUid" : "350102882333a6cc9bfacaeb2a514fe1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136185250,
+          "stop" : 1608136185250,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "350102882333a6cc9bfacaeb2a514fe1"
+    }, {
+      "name" : "chrome not reachable\n  (Session info: chrome=87.0.4280.88)\nBuild info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'\nSystem info: host: 'Serdars-MBP', ip: 'fe80:0:0:0:27:50de:9bc1:4c9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_261'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/1d/nqgdjfz11lb...}, goog:chromeOptions: {debuggerAddress: localhost:50796}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2af10736e03d304fec4e077a488ae2ab",
+      "children" : [ {
+        "name" : "testWait",
+        "uid" : "ba4aa899a0b6040a",
+        "parentUid" : "cf0240a22ca399c3662193fd662aa311",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136188906,
+          "stop" : 1608136208135,
+          "duration" : 19229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf0240a22ca399c3662193fd662aa311"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

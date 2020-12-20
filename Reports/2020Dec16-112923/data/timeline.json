@@ -1,0 +1,221 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "2001@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "Edit to the article",
+        "uid" : "15ee7666d78a4683",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136161777,
+          "stop" : 1608136161777,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Creating new post",
+        "uid" : "e057969323e93ec6",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139861,
+          "stop" : 1608136139861,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "1e9d223c601f444f",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139851,
+          "stop" : 1608136139852,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can login with the valid credentials",
+        "uid" : "bb40a92d16a15c5b",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139872,
+          "stop" : 1608136139872,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testWait",
+        "uid" : "22853f01cf27a50f",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139890,
+          "stop" : 1608136161747,
+          "duration" : 21857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "SignUp -2",
+        "uid" : "9cc1a979166d6a12",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139887,
+          "stop" : 1608136139887,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "takeSnippet",
+        "uid" : "14ba3502daf92748",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608136135724,
+          "stop" : 1608136139768,
+          "duration" : 4044
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "c52090021c82bb43",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136161767,
+          "stop" : 1608136161768,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "1d3af1e13e69c171",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139881,
+          "stop" : 1608136139881,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "7269c8c7fe2695f1",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139875,
+          "stop" : 1608136139875,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "SignUp -2",
+        "uid" : "77a9ac69d4c88920",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139884,
+          "stop" : 1608136139884,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can delete article",
+        "uid" : "f998a190d332893c",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139878,
+          "stop" : 1608136139878,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User can update article",
+        "uid" : "d04cef7575e9609f",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136161790,
+          "stop" : 1608136161790,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "ca621febeb2b15eb",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136139865,
+          "stop" : 1608136139865,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User should not be able to log in",
+        "uid" : "c81a1b2515c0d39d",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1608136139869,
+          "stop" : 1608136139869,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "initDriver",
+        "uid" : "418e09ac9ed5b1ae",
+        "parentUid" : "b9dc7c575d818049f4b0dec3b5ba1553",
+        "status" : "broken",
+        "time" : {
+          "start" : 1608136161784,
+          "stop" : 1608136161784,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b9dc7c575d818049f4b0dec3b5ba1553"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}

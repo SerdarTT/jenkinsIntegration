@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Serdars-MBP",
+    "children" : [ {
+      "name" : "1504@Serdars-MBP.main(1)",
+      "children" : [ {
+        "name" : "User should not be able to log in",
+        "uid" : "31e212d3e88f5f0e",
+        "parentUid" : "7d95493b630794f6cd84c608d9deb1de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608486025055,
+          "stop" : 1608486029764,
+          "duration" : 4709
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d95493b630794f6cd84c608d9deb1de"
+    } ],
+    "uid" : "0053df3b2b846811ee90a846b96bea35"
+  } ]
+}
